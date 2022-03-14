@@ -66,7 +66,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"<iframe src=\"https:\/\/player.vimeo.com\/video\/635307705?h=ae16e70692&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" width=\"858\" height=\"718\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen title=\"KidsCircle L&amp;ouml;we\"><\/iframe>"
+                 "value":"https:\/\/vimeo.com\/635307705"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -402,28 +402,6 @@
                  "width":222.30983819974,
                  "x":735.190626743537,
                  "y":22.138739073833
-                }, 
-                {
-                 "height":195.558861818858,
-                 "id":26,
-                 "name":"Zoom",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"string",
-                         "value":"-5,0"
-                        }],
-                 "rotation":0,
-                 "type":"zone",
-                 "visible":true,
-                 "width":127.29774967454,
-                 "x":0.922447461409703,
-                 "y":378.20345917798
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -467,7 +445,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":62,
+ "nextlayerid":63,
  "nextobjectid":27,
  "orientation":"orthogonal",
  "properties":[
