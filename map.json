@@ -66,7 +66,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=MK35T4Mr20I&t=66s"
+                 "value":"<iframe src=\"https:\/\/player.vimeo.com\/video\/635307705?h=ae16e70692&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" width=\"858\" height=\"718\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen title=\"KidsCircle L&amp;ouml;we\"><\/iframe>"
                 }],
          "type":"tilelayer",
          "visible":true,
