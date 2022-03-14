@@ -30,7 +30,7 @@
                 {
                  "name":"playAudio",
                  "type":"file",
-                 "value":"..\/..\/..\/..\/Downloads\/files (online-audio-converter.com)\/202913_tritus_fountain04.mp3"
+                 "value":"https:\/\/www.mboxdrive.com\/202913_tritus_fountain04.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
