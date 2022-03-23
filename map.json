@@ -179,7 +179,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"src\/assets\/Flamingo.mp3"
+                 "value":"src\/assets\/Flamingo.wav"
                 }],
          "type":"tilelayer",
          "visible":true,
