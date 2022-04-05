@@ -202,7 +202,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/kidscircle.whereby.com\/paco_coach"
+                 "value":"<iframe src=\"https:\/\/kidscircle.whereby.com\/paco_coach\" allow=\"camera; microphone; fullscreen; speaker; display-capture\"><\/iframe>"
                 }],
          "type":"tilelayer",
          "visible":true,
