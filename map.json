@@ -197,7 +197,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/kidscircle.whereby.com\/paco_coach"
+                 "value":"<iframe src=\"https:\/\/kidscircle.whereby.com\/paco_coach\" allow=\"camera; microphone; fullscreen; speaker; display-capture\"><\/iframe>"
+                }, 
+                {
+                 "name":"openWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
