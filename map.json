@@ -195,6 +195,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"allowApi",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/kidscircle.whereby.com\/paco_coach"
