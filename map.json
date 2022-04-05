@@ -200,7 +200,7 @@
                  "value":true
                 }, 
                 {
-                 "name":"openTab",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/kidscircle.whereby.com\/paco_coach"
                 }],
