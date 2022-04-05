@@ -195,14 +195,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
-                 "value":"<iframe src=\"https:\/\/kidscircle.whereby.com\/paco_coach\" allow=\"camera; microphone; fullscreen; speaker; display-capture\"><\/iframe>"
-                }, 
-                {
-                 "name":"openWebsiteAllowApi",
-                 "type":"bool",
-                 "value":true
+                 "value":"https:\/\/kidscircle.whereby.com\/paco_coach"
                 }],
          "type":"tilelayer",
          "visible":true,
